@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/feldjoshuanoah/feldjoshuanoah/master/wave.gif" width="30px">
 
-My name is Joshua Feld, I'm 19 years old and currently pursuing my bachelor's degree majoring in Computational Engineering Science at [RWTH Aachen University](https://www.rwth-aachen.de) in Germany. 
+My name is Joshua Feld, I'm 20 years old and currently pursuing my bachelor's degree majoring in Computational Engineering Science at [RWTH Aachen University](https://www.rwth-aachen.de) in Germany. 
 I am a tech enthusiast & an open source advocate.
 Basketball is my passion.
 Find out more about me and feel free to contact me here:
